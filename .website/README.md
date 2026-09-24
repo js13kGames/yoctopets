@@ -1,4 +1,7 @@
 ---
+genres:
+  - simulation
+  - casual
 post: https://walsh9.online/games/yoctopets-post-mortem
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
